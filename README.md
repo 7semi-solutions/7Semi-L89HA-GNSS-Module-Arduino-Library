@@ -17,15 +17,14 @@ This Arduino library provides support for the **7Semi L89HA GNSS Module** over U
 ---
 
 ## Getting Started
+ 
+  ### 1. Library Installation
+ 
+      - Download or clone the repository.
 
-### 1. Library Installation
+      - Copy the files `L89HA.cpp` and `L89HA.h` into a folder named `7semi_L89HA` under your Arduino `libraries/` directory.
 
-- Download or clone the repository.
-
-- Copy the files `L89HA.cpp` and `L89HA.h` into a folder named `7semi_L89HA` under your Arduino `libraries/` directory.
-
-- Restart the Arduino IDE.
-
+      - Restart the Arduino IDE.
 ---
 
 ### 2. Wiring
